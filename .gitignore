@@ -1,0 +1,17 @@
+# Configuración y secretos de OpenClaw
+openclaw.json
+.env
+.env.*
+*.key
+*.pem
+
+# Credenciales
+credentials/
+secrets/
+
+# Claves SSH
+.ssh/
+
+# Archivos temporales
+tmp/
+*.log
