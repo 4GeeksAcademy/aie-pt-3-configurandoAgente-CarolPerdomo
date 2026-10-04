@@ -15,3 +15,8 @@ secrets/
 # Archivos temporales
 tmp/
 *.log
+
+# Datos internos de OpenClaw
+DREAMS.md
+config/
+memory/
